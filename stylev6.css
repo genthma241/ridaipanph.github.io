@@ -1,9 +1,0 @@
-.box{
-       box-sizing: border-box;}
-       
-*###########599px以下######*
-@media (max-width: 599px){
-
-.display:'single';
-}
- 
